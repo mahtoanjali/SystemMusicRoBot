@@ -94,7 +94,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/mahtoanjali)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/mahtoanjali/SystemMusicRoBot) </b>
+- <b>[sʏsᴛᴇᴍ](https://github.com/mahtoanjali)  ғᴏʀ  [sʏsᴛᴇᴍ ᴍᴜsɪᴄ](https://github.com/mahtoanjali/SystemMusicRoBot) </b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 - <b>[ⓃⓄⓉⒺ This Repo Belongs To Above Mentioned People]<b>
