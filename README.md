@@ -1,26 +1,26 @@
-# 𝗢𝗹𝗶𝘃𝗶𝗮𝘅𝗠𝘂𝘀𝗶𝗰
+# 𝗦𝘆𝘀𝘁𝗲𝗺𝘅𝗠𝘂𝘀𝗶𝗰
 POWERFUL MUSIC BOT
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ 」──
+    ──「 sʏsᴛᴇᴍ ✘ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
   <img src="https://te.legra.ph/file/1f070ea3147e2a3ef44e4.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ](https://t.me/OliviaMusicRoBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sʏsᴛᴇᴍ ✘ ᴍᴜsɪᴄ](https://t.me/systemxmusic_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/stargazers"><img src="https://img.shields.io/github/stars/SaeedGoraya/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/network/members"> <img src="https://img.shields.io/github/forks/SaeedGoraya/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/mahtoanjali/SystemMusicRoBot/stargazers"><img src="https://img.shields.io/github/stars/mahtoanjali/SystemMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/mahtoanjali/SystemMusicRoBot/network/members"> <img src="https://img.shields.io/github/forks/mahtoanjali/SystemMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/mahtoanjali/SystemMusicRoBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/commits/SaeedGoraya"> <img src="https://img.shields.io/github/last-commit/SaeedGoraya/OliviaMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/SaeedGoraya/OliviaMusicRoBot/commits/SaeedGoraya"> <img src="https://img.shields.io/github/last-commit/mahtoanjali/SystemMusicRoBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -37,14 +37,14 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SaeedGoraya/OliviaMusicRoBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mahtoanjali/SystemMusicRoBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/mahtoanjali/SystemMusicRoBot/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -54,7 +54,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘
 - Install node by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenMusic && cd FallenMusic`
+`git clone https://github.com/mahtoanjali/SystemMusicRoBot && cd SystemMusicRoBot
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -82,10 +82,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/tbcbotschat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/MAHTOxOFFICIAL"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/TBC_Bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/MAHTOxOFFICIAL"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -94,11 +94,11 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/mahtoanjali)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/mahtoanjali/SystemMusicRoBot) </b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 - <b>[ⓃⓄⓉⒺ This Repo Belongs To Above Mentioned People]<b>
 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/FallenMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/mahtoanjali/SystemMusicRoBot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sʏsᴛᴇᴍ ✘ ᴍᴜsɪᴄ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
